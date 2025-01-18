@@ -1,3 +1,3 @@
 # .github
 
-GitHub Actions, Workflows, and templates used across the [cosmosregistry](https://github.com/cosmosregistry) org.
+GitHub Actions, Workflows, and templates used across the [cosmonity](https://github.com/cosmonity) org.
